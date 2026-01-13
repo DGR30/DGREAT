@@ -12,11 +12,12 @@ I also explore app development, frontend, game dev, and creative tools.
 - **Python** (Main)
 - **Java** (Main)
 - **C, C++** (Secondary)
+- Dart (Tertiary)
 
 ### 🌐 Frontend / App Development
 - HTML, CSS, JavaScript
 - React
-- Flutter
+- Flutter 
 
 ### 🎮 Game Development
 - Unreal Engine
